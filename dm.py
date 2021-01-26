@@ -27,7 +27,7 @@ async def dm(ctx, *, message):
 
 
     
-bot.login(TOKEN')
+bot.login(TOKEN)
 
 
 
