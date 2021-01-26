@@ -8,3 +8,5 @@ You want to send a message Out to all your friends/people you know
 
 DM advertise a server
 
+
+Must use User Token
